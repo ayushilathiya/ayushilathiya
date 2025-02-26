@@ -1,15 +1,64 @@
 <h1 align="center">Hello! 👋, I'm Ayushi Lathiya</h1>
 <h3 align="center">A passionate Embedded and VLSI enthusiast from India!</h3>
 
-- 🌱 I’m currently deep diving into **various IOT advancements**
+<h3 align="center">🌱 I’m currently exploring the various IOT & VLSI advancements</h3>
 
-- 📫 How to reach me : **ayushi.h.lathiya@gmail.com**
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/ayushilathiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayushilathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23EC2F85.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23FEE704.svg?style=for-the-badge&logo=css3&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23D247C1.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-%2327AE60.svg?style=for-the-badge&logo=c&logoColor=white)  ![MicroPython](https://img.shields.io/badge/MicroPython-%23FF6600.svg?style=for-the-badge&logo=micropython&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%236C3483.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-%234D47D2.svg?style=for-the-badge&logo=xilinx&logoColor=white)  ![Three.js](https://img.shields.io/badge/Three.js-%234D5656.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%232370ED.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![LTSpice](https://img.shields.io/badge/LTSpice-%23CC0000.svg?style=for-the-badge&logo=linear&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23f9e79f.svg?style=for-the-badge&logo=typescript&logoColor=black)  ![Firebase](https://img.shields.io/badge/firebase-%23f5b7b1.svg?style=for-the-badge&logo=firebase&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
+<h3 align="center">👨‍💻 Programming Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-EC2F85?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-27AE60?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-6C3483?style=for-the-badge&logo=symfony&logoColor=white" />
+</div>
+
+<h3 align="center">🚀 Frameworks, Tools & Libraries</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Firebase-f5b7b1?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx-4D47D2?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTSpice-CC0000?style=for-the-badge&logo=linear&logoColor=white" />
+</div>
+
+<h3 align="center">📊 Data Science & Machine Learning</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</div>
+
+<br/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ayushilathiya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushilathiya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushilathiya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
