@@ -1,7 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Ayushi Lathiya</h1>
-<h3 align="center">A passionate Embedded and VLSI enthusiast from India!</h3>
-
-<h3 align="center">🌱 I’m currently exploring the various IOT & VLSI advancements</h3>
+<h3 align="center">🌱 A passionate Embedded and VLSI enthusiast from India currently exploring various IOT advancements!</h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ayushilathiya" target="_blank">
