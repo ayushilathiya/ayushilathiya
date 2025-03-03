@@ -3,7 +3,7 @@ name: Update GitHub Stats
 on:
   schedule:
     - cron: "*/30 * * * *"  # Runs every 30 minutes
-  workflow_dispatch:       # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
