@@ -61,7 +61,7 @@
 
   <!-- ✅ Most Used Languages (FORCING UPDATE WITH DIFFERENT SERVER) -->
   <br> 
-  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&border_radius=10" alt="Top Languages"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 
 
