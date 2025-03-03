@@ -54,7 +54,7 @@
 <div align="center">
 
   <!-- ✅ Streak Stats -->
- <img width="450" src="https://github-readme-streak-stats.vercel.app/?user=ayushilathiya&theme=react&hide_border=true" alt="Streak Stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ayushilathiya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
   <!-- ✅ GitHub Stats -->
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&theme=react&hide_border=true?v=3" alt="GitHub Stats"/>
