@@ -49,18 +49,22 @@
 <br/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
+
   <!-- ✅ Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=ayushilathiya&theme=react&include_all_commits=true" alt="Streak Stats"/>
+ <img width="450" src="https://github-readme-streak-stats.vercel.app/?user=ayushilathiya&theme=react&hide_border=true" alt="Streak Stats"/>
 
   <!-- ✅ GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&theme=react&cache_seconds=60&v=2" alt="GitHub Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&theme=react&hide_border=true?v=3" alt="GitHub Stats"/>
 
   <!-- ✅ Most Used Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=8&theme=react&layout=compact&exclude_repo=github-readme-stats" alt="Top Languages"/>
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=6&theme=react&layout=compact&hide_border=true?v=3" alt="Top Languages"/>
+
+  
 </div>
+
 
 
 
