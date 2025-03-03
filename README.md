@@ -1,9 +1,13 @@
 <h1 align="center">Hello! 👋, I'm Ayushi Lathiya</h1>
 <h3 align="center">🌱 A passionate Embedded and VLSI enthusiast from India currently exploring various IOT advancements!</h3>
 
-<div align="center"> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <a href="https://www.linkedin.com/in/ayushilathiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://ayushilathiya.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=pleroma&logoColor=white" />
   </a>
 </div>
 
@@ -48,7 +52,7 @@
 
 <br/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
 
@@ -57,11 +61,13 @@
 
   <!-- ✅ GitHub Stats (FORCING UPDATE WITH DIFFERENT SERVER) -->
   <br> 
+  <br>
  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
 
   <!-- ✅ Most Used Languages (FORCING UPDATE WITH DIFFERENT SERVER) -->
   <br> 
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <br>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 
 
