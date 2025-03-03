@@ -52,15 +52,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ayushilathiya&theme=react&include_all_commits=true" alt="streak stats"/>
+  <!-- Streak Stats (Now Visible) -->
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=ayushilathiya&theme=react&include_all_commits=true" alt="streak stats"/>
   <br/><br/>
 
-  <!-- GitHub Readme Stats -->
+  <!-- GitHub Stats (Now Updates Every 60s) -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&theme=react&cache_seconds=60" alt="GitHub Stats"/>
   <br/><br/>
 
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages (Now Correct) -->
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
+
 
