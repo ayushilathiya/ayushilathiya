@@ -12,11 +12,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
+      - name: Fetch GitHub Stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          curl -o streak_stats.svg "https://github-readme-streak-stats.herokuapp.com?user=ayushilathiya&theme=react"
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&show_icons=true&theme=react&rank_icon=github"
-          curl -o top_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&hide=HTML&layout=compact&theme=react"
+          curl -o streak_stats.svg "https://github-readme-streak-stats.herokuapp.com?user=ayushilathiya&theme=react&include_all_commits=true"
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&theme=react"
+          curl -o top_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&exclude_repo=github-readme-stats"
 
       - name: Commit and Push Changes
         run: |
