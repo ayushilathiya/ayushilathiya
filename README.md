@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Ayushi Lathiya</h1>
-<h3 align="center">🌱 A passionate Embedded and VLSI enthusiast from India currently exploring various IOT advancements!</h3>
+<h3 align="center">⚡ Working at the Kernel — designing systems that think 🧠, sense 📡, and connect 🌐.</h3>
+<h4 align="center"> Hardware 🔧, Software 💻, and everything in between. </h4>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
   <a href="https://www.linkedin.com/in/ayushilathiya" target="_blank">
