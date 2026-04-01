@@ -65,10 +65,7 @@
   <br>
  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ayushilathiya&count_private=true&include_all_commits=true&show_icons=true&theme=react&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
 
-  <!-- ✅ Most Used Languages (FORCING UPDATE WITH DIFFERENT SERVER) -->
-  <br> 
-  <br>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushilathiya&langs_count=10&theme=react&layout=compact&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
+
 
 
 
